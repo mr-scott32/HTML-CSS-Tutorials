@@ -1,0 +1,45 @@
+body{
+
+    background-color: powderblue;
+    text-align:center;
+}
+
+h1{
+
+    color: rgb(0, 0, 255);
+
+}
+
+p{
+    color:navy;
+}
+
+nav {
+    background-color: #0c0077;
+    
+    }
+    
+nav ul {
+    
+    list-style-type: none;
+    
+    margin: 0;
+    
+    padding: 0;
+    
+}
+    
+nav li {
+    
+    display:inline;
+    margin-right: 20px;
+    
+}
+    
+nav a {
+    
+    color: #0044ff;
+    
+    text-decoration: none;
+    
+}
